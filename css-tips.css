@@ -1,0 +1,7 @@
+/* Anyone have a bottom scroll bar for horizontal scrolling (that you do NOT need)?
+I have the life hack for you... 
+In the css that is connected to your page add: */
+
+body {
+overflow-x: hidden;
+}
